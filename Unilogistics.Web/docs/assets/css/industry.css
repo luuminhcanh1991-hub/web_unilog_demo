@@ -1,0 +1,279 @@
+:root {
+  --bg-gradient: linear-gradient(135deg, #0b2137 0%, #081731 50%, #576175 100%);
+}
+
+body.industry-page .hero {
+  background: url(../images/hero-bg2.jpg) center / cover no-repeat;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+/* --------------- Industry Solution Logic ----------------------- */
+
+.logic-scroll-layout {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  gap: 64px;
+  align-items: start;
+}
+
+.logic-sticky-side {
+  position: sticky;
+  top: 120px;
+  align-self: start;
+}
+
+.logic-scroll-side {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  padding-bottom: 200px;
+}
+
+.logic-card {
+  position: sticky;
+  top: 140px;
+  background: linear-gradient(145deg, #0f1f2e 0%, #1c3b5a 100%);
+  color: #fff;
+  border-radius: 20px;
+  padding: 24px 32px;
+  height: auto;
+  min-height: 150px;
+  max-height: 600px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+  overflow: hidden;
+}
+
+.logic-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 32px 64px rgba(17, 41, 61, 0.45);
+}
+
+.logic-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.14),
+    transparent 45%
+  );
+  pointer-events: none;
+  z-index: 0;
+}
+
+.logic-card-title,
+.logic-card-desc {
+  position: relative;
+  z-index: 1;
+}
+
+.logic-card-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.logic-card-desc {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #cfd8e3;
+}
+
+.logic-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 32px 64px rgba(17, 41, 61, 0.45);
+}
+
+.logic-card:nth-child(1) {
+  z-index: 1;
+}
+.logic-card:nth-child(2) {
+  z-index: 2;
+}
+.logic-card:nth-child(3) {
+  z-index: 3;
+}
+.logic-card:nth-child(4) {
+  z-index: 4;
+}
+
+.check-list {
+  list-style: none; /* bỏ bullet mặc định */
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.check-list li {
+  position: relative;
+  padding-left: 36px;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #2a3a48;
+  transition: transform 0.25s ease;
+}
+
+/* Icon check */
+.check-list li::before {
+  content: "✔";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #00b894;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.check-list li:hover {
+  transform: translateX(4px);
+}
+/* -------------- Reponsive ---------------*/
+@media (max-width: 1024px) {
+  .logic-scroll-layout {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .logic-sticky-side {
+    position: relative;
+    top: 0;
+    margin-bottom: 48px;
+  }
+
+  .logic-scroll-side {
+    gap: 64px;
+    padding-bottom: 100px;
+  }
+
+  .logic-card {
+    position: relative;
+    top: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .check-list li {
+    padding-left: 28px;
+    font-size: 0.95rem;
+  }
+  .check-list li::before {
+    font-size: 1rem;
+  }
+}
+
+/* --------------- Industry tech section ----------------------- */
+.tech-snapshot-section {
+  padding: 80px 24px;
+  background: #f7f9fb;
+}
+
+.snapshot-wrapper {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  gap: 64px;
+  align-items: start;
+  margin: 0 auto;
+}
+
+.tech-column .section-title {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 32px;
+  color: #11293d;
+}
+
+.check-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.check-list li {
+  position: relative;
+  padding-left: 36px;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #2a3a48;
+  transition: transform 0.25s ease;
+}
+
+.check-list li::before {
+  content: "✔";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #00b894;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.check-list li:hover {
+  transform: translateX(4px);
+}
+
+.snapshots-column .section-title {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 32px;
+  color: #11293d;
+}
+
+.snapshot-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+}
+
+.snapshot-item {
+  background: #fff;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 16px 32px rgba(17, 41, 61, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.snapshot-item:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 24px 48px rgba(17, 41, 61, 0.25);
+}
+
+/* Label & data */
+.snapshot-label {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #173a56;
+  margin-bottom: 12px;
+}
+
+.snapshot-data {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #2a3a48;
+}
+
+.snapshot-data .highlight {
+  display: block;
+  font-weight: 700;
+  color: #00b894;
+  margin-top: 4px;
+  font-size: 1.05rem;
+}
+
+@media (max-width: 1024px) {
+  .snapshot-wrapper {
+    grid-template-columns: 1fr;
+    gap: 48px;
+  }
+}
