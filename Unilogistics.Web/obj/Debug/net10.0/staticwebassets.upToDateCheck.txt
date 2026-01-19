@@ -1,0 +1,2 @@
+wwwroot\index.html
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\wwwroot\index.html

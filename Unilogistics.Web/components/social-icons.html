@@ -1,0 +1,126 @@
+<!-- components/social-icons.html -->
+<div class="social-float">
+  <div class="hover-area"></div>
+
+  <button class="social-toggle">
+    <i class="fa-solid fa-share-nodes"></i>
+  </button>
+
+  <a href="#0" class="social-item facebook" style="--i: 0">
+    <i class="fa-brands fa-facebook-f"></i>
+  </a>
+
+  <a href="#0" class="social-item linkedin" style="--i: 1">
+    <i class="fa-brands fa-linkedin-in"></i>
+  </a>
+
+  <a href="#0" class="social-item youtube" style="--i: 2">
+    <i class="fa-brands fa-youtube"></i>
+  </a>
+
+  <a href="#0" class="social-item phone" style="--i: 3">
+    <i class="fa-solid fa-phone"></i>
+  </a>
+</div>
+
+<style>
+  /* ================= FLOATING SOCIAL ================= */
+  /* Container */
+  .social-float {
+    position: fixed;
+    right: 24px;
+    bottom: 24px;
+    width: 64px;
+    height: 64px;
+    z-index: 999;
+  }
+
+  /* Hover buffer */
+  .hover-area {
+    position: absolute;
+    right: -140px;
+    bottom: -140px;
+    width: 280px;
+    height: 280px;
+  }
+
+  /* Icon chính */
+  .social-toggle {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: #001a33;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.25s ease;
+  }
+
+  .social-float:hover .social-toggle {
+    transform: scale(1.06);
+  }
+
+  /* Icon con */
+  .social-item {
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+
+    transform: rotate(calc(180deg + var(--i) * var(--step)))
+      translate(var(--radius))
+      rotate(calc(-1 * (180deg + var(--i) * var(--step)))) scale(1); /* Bắt đầu scale = 1 */
+
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0); /* shadow ẩn */
+    transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+      box-shadow 0.25s ease, opacity 0.25s ease;
+  }
+
+  /* Bung icon */
+  .social-float:hover .social-item {
+    opacity: 1;
+    pointer-events: auto;
+
+    transform: rotate(calc(180deg + var(--i) * var(--step)))
+      translate(var(--radius))
+      rotate(calc(-1 * (180deg + var(--i) * var(--step)))) scale(1); /* vẫn 1, không giật */
+  }
+
+  /* Hover icon con → zoom NHẸ, KHÔNG NHẢY */
+  .social-item:hover {
+    transform: translateZ(0) rotate(calc(180deg + var(--i) * var(--step)))
+      translate(var(--radius))
+      rotate(calc(-1 * (180deg + var(--i) * var(--step)))) scale(1.12); /* zoom nhẹ mượt */
+
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25); /* shadow nổi */
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+
+  /* MÀU – SET TRÊN <i> */
+  .social-item i {
+    font-size: 20px;
+  }
+
+  .facebook i {
+    color: #1877f2;
+  }
+  .linkedin i {
+    color: #0a66c2;
+  }
+  .youtube i {
+    color: #ff0000;
+  }
+  .phone i {
+    color: #25d366;
+  }
+</style>

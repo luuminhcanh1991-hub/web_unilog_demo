@@ -1,0 +1,60 @@
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\appsettings.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.staticwebassets.runtime.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.staticwebassets.endpoints.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.exe
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.deps.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.runtimeconfig.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.dll
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.pdb
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\scopedcss\bundle\Unilogistics-Frontend.styles.css
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.dll
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\refint\Unilogistics-Frontend.dll
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.pdb
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\ref\Unilogistics-Frontend.dll
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\appsettings.Development.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\appsettings.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.staticwebassets.runtime.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.staticwebassets.endpoints.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.exe
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.deps.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.runtimeconfig.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.dll
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\bin\Debug\net10.0\Unilogistics-Frontend.pdb
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.AssemblyInfoInputs.cache
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.AssemblyInfo.cs
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.csproj.CoreCompileInputs.cache
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\scopedcss\bundle\Unilogistics-Frontend.styles.css
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\staticwebassets.build.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\staticwebassets.development.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\swae.build.ex.cache
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.dll
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\refint\Unilogistics-Frontend.dll
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.pdb
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\Unilogistics-Frontend.genruntimeconfig.cache
+D:\OneDrive\PROJECT COMPANY\UNILOGISTICS\Web Mới\Unilogistics.Web\Unilogistics.Web\obj\Debug\net10.0\ref\Unilogistics-Frontend.dll
